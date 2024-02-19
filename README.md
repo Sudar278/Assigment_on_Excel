@@ -1,1 +1,1 @@
-Learning excel using google sheets bcoz google sheets is available for free
+Learning buisiness analytics using google sheets 
